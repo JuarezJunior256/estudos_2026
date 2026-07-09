@@ -1,1 +1,5 @@
 /streams/node_modules
+/streams/largeFile.csv
+/streams/output.csv
+/streams/prepared-video.mp4
+/streams/alura-video.mp4
