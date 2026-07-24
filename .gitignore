@@ -3,3 +3,6 @@
 /streams/output.csv
 /streams/prepared-video.mp4
 /streams/alura-video.mp4
+/mcp/node_modules
+/mcp/dist
+/langchain-rag/node_modules
